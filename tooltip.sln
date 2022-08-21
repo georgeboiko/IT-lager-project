@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tooltip", "tooltip\tooltip.csproj", "{12B0C806-1151-4265-9ED5-88E7BE0FB0C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B0C806-1151-4265-9ED5-88E7BE0FB0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B0C806-1151-4265-9ED5-88E7BE0FB0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B0C806-1151-4265-9ED5-88E7BE0FB0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B0C806-1151-4265-9ED5-88E7BE0FB0C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2312AA3-5FB2-4515-87E3-4C694122970C}
+	EndGlobalSection
+EndGlobal
